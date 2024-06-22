@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config()   //for production ready application 
 const express = require("express");  //commonjs style 
 const app = express();
 const port = 3000;
